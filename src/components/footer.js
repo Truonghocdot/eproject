@@ -40,7 +40,7 @@ export default function Footer() {
       </nav>
       <div className="contact">
         <p><i className="bi bi-house-fill"></i> HTC Tower, 250 Hoang Quoc Viet, Co Nhue, Cau Giay, Ha Noi, VietNam</p>
-        <p><i className="bi bi-envelope-fill"></i> Sugardaddy@gmail.com</p>
+        <p><i className="bi bi-envelope-fill"></i> mait51315@gmail.com</p>
         <p><i className="bi bi-telephone-fill"></i> +84327182537</p>
       </div>
 

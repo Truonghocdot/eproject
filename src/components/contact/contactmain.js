@@ -62,8 +62,8 @@ export default function () {
                                 color: "#fff",
                                 fontWeight: 300
                             }}>
-                                <h3 style={{ fontWeight: 500, color: "#00bcd4", minWidth: "4rem" }}>Address</h3>
-                                <p style={{ margin: "0" }}>250 Hoang Quoc Viet,<br />Ward Co Nhue, District Cau Giay<br />Ha Noi City</p>
+                                <h3 style={{ fontWeight: 500, color: "#00bcd4", minWidth: "4rem", width: "8rem" }}>Address</h3>
+                                <p style={{ margin: "0", maxWidth: "18rem" }}>250 Hoang Quoc Viet, <br/>Ward Co Nhue, <br/> District Cau Giay, <br/>Ha Noi City</p>
                             </div>
                         </div>
                         <div className="box" style={{
@@ -90,8 +90,8 @@ export default function () {
                                 color: "#fff",
                                 fontWeight: 300
                             }}>
-                                <h3 style={{ fontWeight: 500, color: "#00bcd4", minWidth: "4rem" }}>Email</h3>
-                                <p style={{ margin: "0" }}>Sugardaddy@gmail.com</p>
+                                <h3 style={{ fontWeight: 500, color: "#00bcd4", minWidth: "4rem", width: "8rem"  }}>Email</h3>
+                                <p style={{ margin: "0" }}>mait51315@gmail.com</p>
                             </div>
                         </div>
                         <div className="box" style={{
@@ -118,7 +118,7 @@ export default function () {
                                 color: "#fff",
                                 fontWeight: 300
                             }}>
-                                <h3 style={{ fontWeight: 500, color: "#00bcd4", minWidth: "4rem" }}>Phone</h3>
+                                <h3 style={{ fontWeight: 500, color: "#00bcd4", minWidth: "4rem", width: "8rem"  }}>Phone</h3>
                                 <p style={{ margin: "0" }}>+84327182537</p>
                             </div>
                         </div>
